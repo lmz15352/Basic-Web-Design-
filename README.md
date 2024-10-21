@@ -1,3 +1,3 @@
 # Basic-Web-Design-Langston 
 
-<a href="intro_to_html/index.html">Intro to HTML</a>
+<a href="intro/index.html">Intro to HTML</a>
