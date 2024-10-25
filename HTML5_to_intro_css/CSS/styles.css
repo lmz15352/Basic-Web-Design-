@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(24, 23, 23);
+}
+
+#container {
+    background-color: rgb(253, 252, 252);
+    width: 1200px;
+    margin: 20px auto;
+    border: 15px solid rgb(153, 3, 3);
+    padding: 20px;
+}
+
+
+img { 
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+nav a {
+font-size: 24px;
+color: rgb(17, 16, 16);
+margin: 0 20px;
+font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3, footer {
+    text-align: center;
+}
