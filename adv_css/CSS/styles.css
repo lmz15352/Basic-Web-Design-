@@ -15,14 +15,14 @@ body {
 }
 
 #col1 {
-    width: 50;
+    width: 50px;
     border: 2px solid black;
     margin: 20px;
     padding: 20px;
 }
 
 #col2 {
-    width: 50;
+    width: 50px;
     border: 2px solid black;
     margin: 20px;
     padding: 25px;
@@ -62,7 +62,7 @@ display: inline-block;
 
 nav li a {
     display: block;
-    columns: white;
+    columns: 0;
     font-size: 25px;
     font-weight: bold;
     text-decoration: none;
