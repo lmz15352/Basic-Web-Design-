@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+#container {
+    background-color: white;
+    width: 1200px;
+    margin: 20px auto;
+    border: 15px solid rgb(153, 3, 3);
+    padding: 20px;
+}
+
+#banner {
+    width: 900px;
+}
+
+#col1 {
+    width: 50;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col2 {
+    width: 50;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 25px;
+}
+
+.heading_style {
+    text-shadow: 2px 2px 2px darkred;
+}
+
+img { 
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.movie_post {
+    width: 40%;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: black;
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+display: inline-block;
+}
+
+nav li a {
+    display: block;
+    columns: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 20px;
+    width: 125px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#two_col {
+    display: flex;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+h1,
+h2,
+h3, 
+footer {
+    text-align: center;
+}
